@@ -1,0 +1,30 @@
+{
+  "name": "excel2sql",
+  "version": "1.0.0",
+  "description": "Create SQL from EXCEL file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurg008/excel2sql.git"
+  },
+  "keywords": [
+    "SQL",
+    "EXCEL",
+    "CLI"
+  ],
+  "author": "wurg008 <wurg008@qq.com> (http://github.com/wurg008)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurg008/excel2sql/issues"
+  },
+  "homepage": "https://github.com/wurg008/excel2sql#readme",
+  "devDependencies": {
+    "foo": "0.0.7"
+  },
+  "dependencies": {
+    "bar": "^0.1.2"
+  }
+}
